@@ -1,0 +1,22 @@
+[
+    {"title": "1984", "author": "George Orwell", "rating": 4.5},
+    {"title": "To Kill a Mockingbird", "author": "Harper Lee", "rating": 4.3},
+    {"title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "rating": 4.2},
+    {"title": "One Hundred Years of Solitude", "author": "Gabriel García Márquez", "rating": 4.4},
+    {"title": "In Search of Lost Time", "author": "Marcel Proust", "rating": 4.3},
+    {"title": "Moby Dick", "author": "Herman Melville", "rating": 4.1},
+    {"title": "War and Peace", "author": "Leo Tolstoy", "rating": 4.4},
+    {"title": "Hamlet", "author": "William Shakespeare", "rating": 4.6},
+    {"title": "The Odyssey", "author": "Homer", "rating": 4.2},
+    {"title": "Madame Bovary", "author": "Gustave Flaubert", "rating": 4.0},
+    {"title": "The Divine Comedy", "author": "Dante Alighieri", "rating": 4.5},
+    {"title": "Pride and Prejudice", "author": "Jane Austen", "rating": 4.4},
+    {"title": "The Brothers Karamazov", "author": "Fyodor Dostoyevsky", "rating": 4.8},
+    {"title": "Crime and Punishment", "author": "Fyodor Dostoyevsky", "rating": 4.5},
+    {"title": "Wuthering Heights", "author": "Emily Brontë", "rating": 3.9},
+    {"title": "The Catcher in the Rye", "author": "J.D. Salinger", "rating": 4.1},
+    {"title": "The Adventures of Huckleberry Finn", "author": "Mark Twain", "rating": 3.8},
+    {"title": "Alice's Adventures in Wonderland", "author": "Lewis Carroll", "rating": 4.2},
+    {"title": "The Lord of the Rings", "author": "J.R.R. Tolkien", "rating": 4.9},
+    {"title": "The Chronicles of Narnia", "author": "C.S. Lewis", "rating": 4.5}
+]
